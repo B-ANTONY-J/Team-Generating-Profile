@@ -24,6 +24,10 @@ How do you deliver this? Here are some guidelines:
 ![Employee Summary 1](./Assets/10-OOP-homework-demo-1.png)
 ![Employee Summary 2](./Assets/10-OOP-homework-demo-2.png)
 
+***Video Link of DEMO***
+![Employee DEMO 1](./Assets/<iframe src="https://drive.google.com/file/d/1sGXzJzDW27Parv0JAYy3bTT_wPaPKyDq/preview" width="640" height="480"></iframe>)
+
+
 In the `Develop` folder, there is a `package.json`, so make sure to `npm install`.
 
 The dependencies are, [jest](https://jestjs.io/) for running the provided tests, and [inquirer](https://www.npmjs.com/package/inquirer) for collecting input from the user.
